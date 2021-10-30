@@ -1,2 +1,2 @@
-# metaversal-law
-Metaversal Law resources / writings / code
+# meta_law
+Meta_Law resources / writings / code
